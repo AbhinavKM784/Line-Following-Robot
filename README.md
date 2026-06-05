@@ -1,5 +1,6 @@
 # Line-Following-Robot
-<img width="735" height="490" alt="WA_1771581346966" src="https://github.com/user-attachments/assets/7804aed1-c3f9-410e-9b78-56f4d38a89a7" />
+<img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/c5233479-a9e9-41e7-a05a-365323582025" />
+
 
 An autonomous line-following robot built using an Arduino, IR sensors, and DC geared motors. The robot detects a black line on a light-colored surface and adjusts its movement to remain on the track without human intervention.
 
