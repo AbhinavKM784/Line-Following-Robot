@@ -29,6 +29,10 @@ This project was developed to explore robotics, embedded systems, sensor interfa
 | Castor Wheel | 1 |
 | Battery Pack | 1 |
 
+## Schematics
+<img width="2919" height="2403" alt="IMG-20260218-WA0031" src="https://github.com/user-attachments/assets/16d132e9-0510-4d34-9967-744d88a3eb99" />
+
+
 ## Working Principle
 
 The robot continuously reads data from two infrared sensors mounted at the front.
@@ -61,12 +65,10 @@ The completed robot successfully follows predefined tracks and navigates curves 
 ### Robot Photo
 <img width="2668" height="1540" alt="IMG_20260604_230252" src="https://github.com/user-attachments/assets/5e52446a-0326-4287-ae9f-eb6e26094739" />
 
-<img width="735" height="490" alt="WA_1771581346966" src="https://github.com/user-attachments/assets/b8b22767-7918-4812-ad6e-4638a1dcd2e4" />
-
 ### Demo Video
 
 https://github.com/user-attachments/assets/a1a8f594-a612-4c63-b1e1-15dec6cf9382
 
 
-bhinav
+Abhinav
 B.Tech Electrical and Electronics Engineering
